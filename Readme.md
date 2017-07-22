@@ -85,3 +85,4 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/shadowsoc
 - 配置文件路径： /etc/shadowsocks.json
 - 日志文件路径： /var/log/shadowsocks.log
 - 安装路径： /usr/local/shadowsocks/shadowsoks
+。。。。。。
